@@ -1,4 +1,2 @@
 GIT!
 aaa!
-bbb
-qqqq
